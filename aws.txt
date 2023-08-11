@@ -1,3 +1,4 @@
 This repository created with gitbash
 This file is changed from git hub
 Added the .gitignore file to safegurad my files
+ .txt files
