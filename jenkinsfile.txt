@@ -1,10 +1,10 @@
 pipeline {
 
-//  environment {
-//    registry = "nevincleetus/java-web-app-cicd"
-//    registryCredential = 'dockerhub'
-//    dockerImage = ''
-//  }
+  environment {
+   registry = "nevincleetus/java-web-app-cicd"
+    registryCredential = 'dockerhub'
+    dockerImage = ''
+  }
 
   agent any 
 
